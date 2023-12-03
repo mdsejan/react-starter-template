@@ -5,6 +5,7 @@ import DashboardLayout from "../pages/Layout/DashboardLayout";
 import AdminDashboard from "../pages/Dashboard/AdminDashboard/AdminDashboard";
 import UserDashboard from "../pages/Dashboard/UserDashboard/UserDashboard";
 import Error from "../pages/shared/Error/Error";
+import Test from "../pages/test/test";
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,11 @@ const router = createBrowserRouter([
         element: <UserDashboard></UserDashboard>,
       },
     ],
+  },
+
+  {
+    path: "/test",
+    element: <Test></Test>,
   },
 ]);
 

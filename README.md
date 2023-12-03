@@ -11,9 +11,13 @@ To get started with this template, follow these steps:
 3. Start the development server with `npm run dev`.
 4. Begin coding your React application!
 
+## Live Link
+
+-[view live Starter Template](https://react-starter-sejan.netlify.app/)
+
 ## React Resources
 
-### Awesome React Components
+### Awesome React Resources
 
 Here are some resources where you can find awesome React components:
 
